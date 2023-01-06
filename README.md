@@ -1,3 +1,6 @@
+This project is a react based application " Travel Advisor" made with react, javascript, html, css.
+The Application is deployed on netlify. It can be accessed on ->  https://travelwithkartikay.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
